@@ -33,6 +33,10 @@ a:link {
   color: rgb(47, 0, 255);
 }
 
+a:visited {
+  color: rgb(47, 0, 255);
+}
+
 a:hover {
   color: rgb(47, 0, 255);
 }
