@@ -1,6 +1,6 @@
 # Drop-Down-Menu
 
-[Drop Down Menu](https://brixsta.github.io/Drop-Down-Menu/)
+[View Drop Down Menu](https://brixsta.github.io/Drop-Down-Menu/)
 
 - Coding exercise
 - Practice making a drop down menu
